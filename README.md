@@ -34,6 +34,8 @@ This project supports that direction by:
 - Mapping attacker behavior to MITRE ATT&CK techniques, detection ideas, and defensive recommendations, which creates the kind of structured context an AI-assisted investigation workflow would need.
 - Practicing clear English security communication so technical findings can be converted into incident response notes, executive summaries, and follow-up analysis.
 
+For a fuller explanation, see [Research Direction Fit](docs/research-direction.md).
+
 ## Portfolio Roadmap
 
 The next related portfolio project should move from written briefs to AI-assisted incident triage. A focused `ai-assisted-incident-triage` or `threat-intel-correlation-lab` project could analyze 3-5 public incidents or phishing samples, organize IOCs and attack methods, generate an incident summary, suggest ATT&CK mappings, assign a priority score, and propose response recommendations.
@@ -56,6 +58,8 @@ threat-intelligence-briefs/
 ├── README.md
 ├── briefs/
 │   └── brief-001-credential-phishing-cloud-account-takeover.md
+├── docs/
+│   └── research-direction.md
 ├── templates/
 │   └── brief-template.md
 └── notes/
