@@ -4,6 +4,12 @@ This repository is a cybersecurity portfolio project focused on short, structure
 
 The goal is to practice security analysis, communicate technical risk clearly, and build a body of work for graduate school applications in cybersecurity, network security, or threat intelligence.
 
+## Portfolio Position
+
+This repository is the writing and analysis layer of my cybersecurity portfolio. It is not meant to be another detector or parser. Its purpose is to show that I can turn technical security material into structured intelligence: threat scenario, attack flow, MITRE ATT&CK mapping, detection ideas, and defensive recommendations.
+
+This supports my AI-assisted SOC direction because an effective incident triage tool needs clear structured context, not only raw indicators.
+
 ## Current Briefs
 
 | Brief | Topic | Focus |
